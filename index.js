@@ -2,7 +2,7 @@
 
     "capstone": {
 
-        "liveLink": "<github page link>",
+        "liveLink": "https://rowel14.github.io/webportfolio/",
 
         "name": "Rowel Libunao",
 
